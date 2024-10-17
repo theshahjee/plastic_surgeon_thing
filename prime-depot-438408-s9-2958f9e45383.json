@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "prime-depot-438408-s9",
+  "private_key_id": "2958f9e453839fcfd7c9e59534f3aec12ecd7d2d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCk7K2psgYRIYXF\nDxeTlP7Ut/Bs5lgc8SI340EDI6IOSlpxpGENRzPnQ5d8cpaVcY2OH1vkaLTDM69+\nEeKlRy1iGAa5XSagrXSlt/j96sps5aG04tE2J1C29IsVgbEb7R4TCCO6M3qulYIY\nTtMzX3AfszjkQTUCWWfhts56XPVyyII8Uqdqc8dupYCxvIfxsIe8CGjuABpbuR51\nmD6fF+S7f78PfJzyQpmqE2eRVwT54hjhrfd34xzEOc+U7JHZKyNk7T6t2RFd078a\nN5eJfqLiP1oPInmDEGk2yqpShrzCUxOf5zA6yBBaz6l7qH/O8Q6UQ2asqb0lQeVM\nPiKkz8bPAgMBAAECggEAAl+c8N7CLe1Evr0aB+0yglQyrmvdjm5n9tRF7hTNXcBI\nhJnVgw/obtEZtS2e/iqYBhjBxUvpIhAJ3ATHir0Mqac9Mt4PfWt8TMWU3JlMQtHx\nMv26qLlbH4RDG32g02KPtr1najltxWUbGLIgYae4y4lUQxtZzHKwnIkkIpMDk0cf\n2+b4ETNfZLkQ1BDcLQcsaIHNvs16rrdMRx+SmIOsAGc4V7YAXWZ27rPS/qYDqtao\nALl2lMPruR0KzREd+vx+ls93iz8VoU8CjLohjGGmoDh1mc6zMD7nQQYf+R32sYWJ\n0lBu89S16LnWXj55H+XkmQUi7zoazd9sfB35yb56rQKBgQDWhyjCz45EGgRMLXdU\nD4BdNin/TnvChLCANOp05gzp1rdHeN4V/BhKFIsa6DAuAy0Ng54lYFtMN2Zm8wNe\nZESSRIqmj2NdAblt07hCmj5gnLa0MVKiop3vb3zPFWuBEvuBl5pIPsuXcD+xn9bF\nsGQ9xS9xefs5Wcd5sGTGwmhS+wKBgQDEzq3cDegzpB+V1RqorB/xbeFrla9HGCLP\n/X8LEVHFzzwp44U4ANepbRDF80s3Lc8wijkVwC0SLkCXJwW7rzgE/OdQ22H4HA2w\ne0kyr67ogn20ImapsvVZLpHCStSfkt6xVOi5C92Zr4Fr3wdqIPz2BJNnmIvas9j1\n46bmQIQzPQKBgQCXoTzMRUv3ErSK62/2eGZwe8I/dEfBe2wNkllNevURqvQsjl/b\nBi5c3hxcTlUPkKsdbDQxkuO1AUtd5NIyu4hEIjIl/B9tM7TOzeDlIoSIYPw6bMpN\nrccX36NF84vi1XnzZSZlfg0E4xACCkoRvNV9W4xnFqLdLHnzpxvz6KE4VQKBgGAY\nisvn/nk4qjN+2oWBhhdcj7T4YZ1VK6pjHKVKz6LGjZnmfiXaQ3N2zbnaEd/ffks1\nMqpsK5W0/9TOOP5rj+7fjhLtC+kZyZVinVsibUUackaChZ5Ww3XIR2OXJjrEe/ga\nfYfdQ1bHW2pQfE5VzS5TDaaH1cH0DvwBLH1BA0wBAoGBAKeWSpaPJ9ypgU6nloAO\nhhzLh93uYEHEhDoGHLR0KAIUlaHZp2bQ7bFEUiCPDy6Y3qPq9cNfTZb6EaWwgqvW\nVbHuLjyZAUw6vZzDG5To1iqgbq/XjvziEET9DkSTUKLhzYFETNVtt6/fl926e/C/\nLrlWzNkriDbjyPl4Z6RmGwtV\n-----END PRIVATE KEY-----\n",
+  "client_email": "image-processing@prime-depot-438408-s9.iam.gserviceaccount.com",
+  "client_id": "105245637447922195917",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/image-processing%40prime-depot-438408-s9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
